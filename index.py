@@ -9,7 +9,7 @@ print(greeting)
 #and a true/false value (boolean)
 is_python_fun = True
 print("is python fun? {is_python_fun}")
-
+ 
 temperature = 30
 if temperature > 25:
     print("It's hot outside! Wear shorts")
